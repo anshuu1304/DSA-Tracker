@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0015-3sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/anshuu1304/DSA-Tracker/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -18,4 +19,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0001-two-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
