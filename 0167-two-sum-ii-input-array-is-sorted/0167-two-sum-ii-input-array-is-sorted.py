@@ -14,6 +14,7 @@ class Solution:
             if curr_sum < target:
                 i+=1
             elif curr_sum > target:
-                j-=1                           
-    
+                j-=1
+        return []                                   
+
         
