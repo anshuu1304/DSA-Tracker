@@ -1,60 +1,27 @@
-import java.util.*;
 class Solution {
     public int[] sortedSquares(int[] nums) {
 
-        List<Integer> pos = new ArrayList<>();
-        List<Integer> neg = new ArrayList<>();
+        int n = nums.length;
+        int[] res = new int[n];
+        int left =0;
+        int right = n-1;
+        int idx = n-1;
 
-        for(int num : nums)
+        while(left <= right)
         {
-            if(num >= 0)
+            if(Math.abs(nums[left]) >= Math.abs(nums[right]))
             {
-                pos.add(num*num);
+                res[idx] = nums[left] * nums[left];
+                left++;
             }
             else
             {
-                neg.add(num*num);
+                res[idx] = nums[right] * nums[right];
+                right--;
             }
+            idx--;
         }
-
-        Collections.reverse(neg);
-
-        int i = 0;
-        int j = 0;
-        int idx= 0;
-        int n = neg.size();
-        int m = pos.size();
-        int[] res = new int[nums.length];
-
-        while(i < m && j < n)
-        {
-            if(pos.get(i) <=  neg.get(j))
-            {
-                res[idx] = pos.get(i);
-                idx++;
-                i++;
-            }
-            else
-            {
-                res[idx] = neg.get(j);
-                idx++;
-                j++;
-            }
-        }
-        
-        while(i < m)
-        {
-            res[idx] = pos.get(i);
-            idx++;
-            i++;
-        }
-        while(j < n)
-        {
-            res[idx] = neg.get(j);
-            idx++;
-            j++;
-        }
-
         return res;
+        
     }
 }
