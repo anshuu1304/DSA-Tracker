@@ -27,6 +27,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/anshuu1304/DSA-Tracker/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/anshuu1304/DSA-Tracker/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/anshuu1304/DSA-Tracker/tree/main/0183-customers-who-never-order/) | Easy |
+| [0577-employee-bonus](https://github.com/anshuu1304/DSA-Tracker/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/anshuu1304/DSA-Tracker/tree/main/0584-find-customer-referee/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
