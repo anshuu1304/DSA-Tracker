@@ -3,23 +3,25 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
-        left = 0
-        mid = 0
-        right = n-1
+        zeroes =0
+        ones=0
+        twos=0
 
-        while mid <= right:
-
-            if nums[mid]==0:
-                nums[left], nums[mid] = nums[mid], nums[left]
-                left+=1
-                mid+=1
-            elif nums[mid] == 1:
-                mid+=1
+        for num in nums:
+            if num == 0:
+                zeroes+=1
+            elif num == 1:
+                ones+=1
             else:
-                nums[mid], nums[right] = nums[right], nums[mid]
-                right-=1
+                twos+=1
 
-
-
-        
+        for i in range(len(nums)):
+            if zeroes > 0:
+                nums[i] = 0
+                zeroes-=1
+            elif ones > 0:
+                nums[i] = 1
+                ones-=1
+            else:
+                nums[i] = 2
+                twos-=1                        
