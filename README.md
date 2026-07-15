@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/anshuu1304/DSA-Tracker/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/anshuu1304/DSA-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuu1304/DSA-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -37,6 +38,7 @@
 | [0015-3sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/anshuu1304/DSA-Tracker/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/anshuu1304/DSA-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuu1304/DSA-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -45,6 +47,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/anshuu1304/DSA-Tracker/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/anshuu1304/DSA-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
