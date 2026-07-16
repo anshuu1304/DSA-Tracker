@@ -31,6 +31,7 @@
 | [0183-customers-who-never-order](https://github.com/anshuu1304/DSA-Tracker/tree/main/0183-customers-who-never-order/) | Easy |
 | [0577-employee-bonus](https://github.com/anshuu1304/DSA-Tracker/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/anshuu1304/DSA-Tracker/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/anshuu1304/DSA-Tracker/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
