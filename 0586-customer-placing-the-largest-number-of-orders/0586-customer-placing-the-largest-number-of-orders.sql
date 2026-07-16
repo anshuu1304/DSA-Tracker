@@ -3,11 +3,10 @@ SELECT customer_number
 FROM Orders
 GROUP BY customer_number
 HAVING COUNT(*) = (
-    SELECT MAX(order_count)
-    FROM (
-       SELECT COUNT(*) AS order_count
-       FROM Orders
-       GROUP BY customer_number
-    ) t
+      SELECT MAX(order_count)
+      FROM (
+        SELECT COUNT(order_number) AS order_count
+        FROM Orders
+        GROUP BY customer_number
+      )t
 )
-
