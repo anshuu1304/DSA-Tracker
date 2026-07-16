@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/anshuu1304/DSA-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuu1304/DSA-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/anshuu1304/DSA-Tracker/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -18,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuu1304/DSA-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/anshuu1304/DSA-Tracker/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Database
@@ -62,5 +64,10 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0410-split-array-largest-sum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
