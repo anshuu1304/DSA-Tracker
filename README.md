@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuu1304/DSA-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/anshuu1304/DSA-Tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/anshuu1304/DSA-Tracker/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Binary Search
@@ -36,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0001-two-sum/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/anshuu1304/DSA-Tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +73,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/anshuu1304/DSA-Tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 <!---LeetCode Topics End-->
