@@ -3,16 +3,18 @@ class Solution {
 
         HashMap<Integer , Integer> map = new HashMap<>();
 
-        for(int i =0; i< nums.length; i++)
+        for(int i=0; i<=nums.length-1; i++)
         {
-            int complement = target - nums[i];
+            int comp = target - nums[i];
 
-            if(map.containsKey(complement))
+            if(map.containsKey(comp))
             {
-                return new int[]{map.get(complement) , i};
+                return new int[]{map.get(comp), i};
             }
-
-            map.put(nums[i] , i);
+            else
+            {
+                map.put(nums[i] , i);
+            }
         }
         return new int[]{};
     }
