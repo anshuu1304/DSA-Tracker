@@ -3,12 +3,14 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        i = 0
-        j = 0 
-        res =[0]*(m+n)
-        idx =0
-        while i < m and j < n:
-            if nums1[i] <= nums2[j]:
+        i = 0 
+        j = 0
+        idx = 0
+        res = [0]*(m+n)
+
+        while i<m and j <n:
+
+            if nums1[i] < nums2[j]:
                 res[idx] = nums1[i]
                 i+=1
                 idx+=1
@@ -17,19 +19,16 @@ class Solution:
                 j+=1
                 idx+=1
 
-        while i < m:
+        while i<m:
             res[idx] = nums1[i]
             i+=1
             idx+=1
 
-        while j < n:
+        while j<n:
             res[idx] = nums2[j]
             j+=1
-            idx+=1
-
+            idx+=1    
+                    
         for k in range(m+n):
-            nums1[k] = res[k]  
+            nums1[k] = res[k]            
 
-
-
-        
