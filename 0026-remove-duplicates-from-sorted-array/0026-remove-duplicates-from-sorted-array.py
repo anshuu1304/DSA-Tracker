@@ -9,6 +9,7 @@ class Solution:
 
             if nums[read_idx] == nums[read_idx -1]:
                 read_idx+=1
+                continue
             else:
                 nums[write_idx+1] = nums[read_idx]
                 write_idx +=1
