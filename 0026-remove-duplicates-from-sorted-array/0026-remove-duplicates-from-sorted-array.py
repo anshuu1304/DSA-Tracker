@@ -1,8 +1,8 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-
-        read_idx =1  #<- ptr 1
-        write_idx =0 #<- ptr 2
+        
+        read_idx = 1
+        write_idx = 0
         unique_cnt = 1
 
         while read_idx < len(nums):
@@ -12,9 +12,8 @@ class Solution:
                 continue
             else:
                 nums[write_idx+1] = nums[read_idx]
-                write_idx +=1
-                read_idx +=1
-                unique_cnt +=1 
+                write_idx+=1
+                read_idx+=1
+                unique_cnt+=1
 
-        return unique_cnt        
-        
+        return unique_cnt    
