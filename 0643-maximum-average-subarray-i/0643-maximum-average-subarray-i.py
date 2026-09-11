@@ -18,6 +18,9 @@ class Solution:
             low+=1
             high+=1
 
+            if high == n:
+                break
+
             window_sum -= nums[low-1]
             window_sum += nums[high]
 
