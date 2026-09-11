@@ -5,6 +5,7 @@ class Solution:
         high = k-1
         window_sum = 0
         window_avg = 0
+        res=0
 
         for i in range(low , high+1):
 
