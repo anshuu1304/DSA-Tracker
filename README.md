@@ -101,4 +101,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/anshuu1304/DSA-Tracker/tree/main/0075-sort-colors/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/anshuu1304/DSA-Tracker/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/anshuu1304/DSA-Tracker/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
