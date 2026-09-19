@@ -10,7 +10,6 @@ class Solution:
         prev = None
 
         while temp is not None:
-
             front = temp.next 
             temp.next = prev
             prev = temp 
