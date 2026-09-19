@@ -3,23 +3,23 @@ class Solution:
 
         low = 0
         res = 0
-        zeroes = 0
+        zeros = 0
 
         for high in range(len(nums)):
 
             if nums[high] == 0:
-                zeroes+=1
+                zeros+=1
 
-            while zeroes > k:
+            while zeros > k:
 
                 if nums[low] == 0:
-                    zeroes-=1
+                    zeros-=1
 
                 low+=1
 
-            length = high - low+1
-            res = max(res , length)   
+            length = high -low+1
+            res = max(res , length)    
 
-        return res             
+        return res    
 
         
