@@ -44,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshuu1304/DSA-Tracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/anshuu1304/DSA-Tracker/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/anshuu1304/DSA-Tracker/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/anshuu1304/DSA-Tracker/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/anshuu1304/DSA-Tracker/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/anshuu1304/DSA-Tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Two Pointers
@@ -55,6 +56,7 @@
 | [0075-sort-colors](https://github.com/anshuu1304/DSA-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/anshuu1304/DSA-Tracker/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/anshuu1304/DSA-Tracker/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuu1304/DSA-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -107,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/anshuu1304/DSA-Tracker/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/anshuu1304/DSA-Tracker/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/anshuu1304/DSA-Tracker/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -116,4 +119,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/anshuu1304/DSA-Tracker/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/anshuu1304/DSA-Tracker/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
