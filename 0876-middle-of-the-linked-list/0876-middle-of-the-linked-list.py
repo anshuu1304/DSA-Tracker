@@ -6,8 +6,8 @@
 class Solution:
     def middleNode(self, head: ListNode | None) -> ListNode | None:
 
-        slow = head
-        fast = head
+        slow = head 
+        fast = head 
 
         while fast is not None and fast.next is not None:
 
@@ -15,5 +15,4 @@ class Solution:
             fast = fast.next.next
 
         return slow    
-        
         
