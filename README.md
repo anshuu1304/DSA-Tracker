@@ -22,6 +22,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/anshuu1304/DSA-Tracker/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anshuu1304/DSA-Tracker/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/anshuu1304/DSA-Tracker/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anshuu1304/DSA-Tracker/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@
 | [0152-maximum-product-subarray](https://github.com/anshuu1304/DSA-Tracker/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anshuu1304/DSA-Tracker/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anshuu1304/DSA-Tracker/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
