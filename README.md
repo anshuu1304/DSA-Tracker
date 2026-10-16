@@ -17,6 +17,7 @@
 | [0287-find-the-duplicate-number](https://github.com/anshuu1304/DSA-Tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/anshuu1304/DSA-Tracker/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/anshuu1304/DSA-Tracker/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/anshuu1304/DSA-Tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuu1304/DSA-Tracker/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -97,6 +98,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0724-find-pivot-index](https://github.com/anshuu1304/DSA-Tracker/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/anshuu1304/DSA-Tracker/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
