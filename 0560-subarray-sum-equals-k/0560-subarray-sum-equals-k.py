@@ -1,18 +1,16 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-
-        currSum = 0
+        curr_sum = 0
         count = 0
         dict = {0:1}
 
         for i in range(len(nums)):
 
-            currSum += nums[i]
+            curr_sum += nums[i]
 
-            count += dict.get(currSum-k,0)
+            count+= dict.get(curr_sum-k , 0)
 
-            dict[currSum] = dict.get(currSum , 0)+1
+            dict[curr_sum] = dict.get(curr_sum , 0)+1
 
-        return count   
-
+        return count    
         
