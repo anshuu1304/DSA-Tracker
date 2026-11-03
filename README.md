@@ -19,6 +19,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/anshuu1304/DSA-Tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/anshuu1304/DSA-Tracker/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/anshuu1304/DSA-Tracker/tree/main/0724-find-pivot-index/) | Easy |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anshuu1304/DSA-Tracker/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/anshuu1304/DSA-Tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuu1304/DSA-Tracker/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -33,6 +34,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/anshuu1304/DSA-Tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anshuu1304/DSA-Tracker/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/anshuu1304/DSA-Tracker/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/anshuu1304/DSA-Tracker/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Database
@@ -102,6 +104,7 @@
 | [0410-split-array-largest-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/anshuu1304/DSA-Tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/anshuu1304/DSA-Tracker/tree/main/0724-find-pivot-index/) | Easy |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anshuu1304/DSA-Tracker/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/anshuu1304/DSA-Tracker/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -111,6 +114,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/anshuu1304/DSA-Tracker/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/anshuu1304/DSA-Tracker/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anshuu1304/DSA-Tracker/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/anshuu1304/DSA-Tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshuu1304/DSA-Tracker/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## String
@@ -165,9 +169,15 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anshuu1304/DSA-Tracker/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuu1304/DSA-Tracker/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anshuu1304/DSA-Tracker/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuu1304/DSA-Tracker/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anshuu1304/DSA-Tracker/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 <!---LeetCode Topics End-->
