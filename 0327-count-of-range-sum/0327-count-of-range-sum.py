@@ -1,13 +1,14 @@
 class Solution:
-    def mergeSort(self, nums:list[int],left:int , right:int , lower:int , upper: int) -> int:
+    def mergeSort(self, nums:list[int] , left: int , right: int , lower : int , upper: int) -> int:
 
-        if left >= right:
+        if left>= right:
             return 0
 
         mid = (left+right)//2
 
-        leftCount = self.mergeSort(nums,left,mid,lower,upper)
-        rightCount = self.mergeSort(nums, mid+1 , right,lower,upper)
+        leftCount = self.mergeSort(nums,left, mid, lower , upper)
+        rightCount = self.mergeSort(nums,mid+1,right,lower,upper)
+
         totalCount = leftCount+rightCount
 
         leftHalf = nums[left:mid+1]
@@ -24,12 +25,11 @@ class Solution:
             while j < len(rightHalf) and rightHalf[j] - x <= upper:
                 j+=1
 
-            totalCount += j-i    
+            totalCount += j-i
 
         nums[left:right+1] = sorted(nums[left:right+1])
 
-        return totalCount    
-
+        return totalCount            
 
     def countRangeSum(self, nums: list[int], lower: int, upper: int) -> int:
 
@@ -37,5 +37,5 @@ class Solution:
         for num in nums:
             preSum.append(preSum[-1]+num)
 
-        return self.mergeSort(preSum , 0 , len(preSum)-1 , lower,upper)    
+        return self.mergeSort(preSum , 0 , len(preSum)-1 , lower, upper)    
         
