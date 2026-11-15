@@ -26,6 +26,7 @@
 | [0904-fruit-into-baskets](https://github.com/anshuu1304/DSA-Tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuu1304/DSA-Tracker/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/anshuu1304/DSA-Tracker/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshuu1304/DSA-Tracker/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anshuu1304/DSA-Tracker/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/anshuu1304/DSA-Tracker/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -80,6 +81,7 @@
 | [0287-find-the-duplicate-number](https://github.com/anshuu1304/DSA-Tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/anshuu1304/DSA-Tracker/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuu1304/DSA-Tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/anshuu1304/DSA-Tracker/tree/main/0986-interval-list-intersections/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +209,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0327-count-of-range-sum](https://github.com/anshuu1304/DSA-Tracker/tree/main/0327-count-of-range-sum/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/anshuu1304/DSA-Tracker/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
